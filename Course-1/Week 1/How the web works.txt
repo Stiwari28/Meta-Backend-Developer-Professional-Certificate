@@ -1,0 +1,11 @@
+------------------How the web works---------------
+
+1. Client
+2.Domain Name
+3.Data Center
+4.Hardware
+5.Receive requests from a web browser and to respond with the correct content for that request.
+6.True
+7.Hyperlinks
+8.HTML,JavaScript,CSS
+9.False
