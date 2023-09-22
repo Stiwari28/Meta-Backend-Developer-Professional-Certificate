@@ -3,7 +3,7 @@ This repository contains solutions for the course Meta Backend Developer Profess
 <br>
 <h1><a href="Course-1">Introduction to BackEnd Development</a></h1>
 <ul>
-  <li><a href="[Course-1](https://github.com/Stiwari28/Meta-Backend-Developer-Professional-Certificate/tree/main/Course-1/Week%201)">Week-1</a>
+  <li><a href="Course-1/Week 1">Week-1</a>
     <ul>
       <li><a href="Course-1">Quiz-1</a></li>
       <li><a href="Course-1">Quiz-2</a></li>
